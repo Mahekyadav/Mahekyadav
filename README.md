@@ -13,13 +13,14 @@
   <a href="https://www.linkedin.com/in/mahek-yadav1">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
+
   <a href="https://github.com/Mahekyadav">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Mahekyadav&style=for-the-badge&color=0EA5E9&labelColor=0D1117" alt="Profile Views"/>
+  <a href="https://github.com/Mahekyadav">
+    <img src="https://komarev.com/ghpvc/?username=Mahekyadav&style=for-the-badge&color=0EA5E9&label=Profile+Views"/>
+  </a>
 </p>
 
 <!-- Divider -->
@@ -242,10 +243,7 @@ currently  : "Learning, building & growing — one
   <a href="https://github.com/Mahekyadav">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/_mahekyadav_/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
+ 
 </p>
 
 <div align="center">
