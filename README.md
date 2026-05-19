@@ -17,10 +17,7 @@
   <a href="https://github.com/Mahekyadav">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/_mahekyadav_/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
+
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=Mahekyadav&style=for-the-badge&color=0EA5E9&labelColor=0D1117" alt="Profile Views"/>
 </p>
